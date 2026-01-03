@@ -2,9 +2,9 @@
 
 ---
 
-# 🎬 Movie Sales Analysis Project
+# Movie Sales Analysis Project
 
-## 📌 Project Overview
+## Project Overview
 
 The movie industry is not only about storytelling and creativity but also a large-scale business involving massive investments in production, marketing, and distribution. Despite high investments, many movies fail at the box office due to poor planning and lack of data-driven insights.
 
@@ -12,7 +12,7 @@ This project focuses on **analyzing movie sales data** to understand revenue tre
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Production houses invest huge amounts of money in movies, expecting high returns. However:
 
@@ -24,7 +24,7 @@ This leads to **financial losses** and increased business risk.
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 * Analyze movie sales performance across **genres and time periods**
 * Identify **high-performing and low-performing movies**
@@ -33,14 +33,14 @@ This leads to **financial losses** and increased business risk.
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 Many movies fail to earn profits despite high investment due to poor planning and lack of insights.
 By analyzing movie sales data, production houses can identify what works, understand audience preferences, and make informed decisions to reduce financial risk.
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset includes:
 
@@ -54,7 +54,7 @@ The data is used to study trends, performance, and correlations.
 
 ---
 
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 
 * **Year-wise Revenue Trends**
 * **Genre Performance Analysis**
@@ -64,7 +64,7 @@ The data is used to study trends, performance, and correlations.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 * **Trend Over Time:** Movie sales fluctuate across years due to changing audience behavior and market conditions.
 * **Genre Performance:** Action, Adventure, and Sci-Fi genres consistently generate higher revenue.
@@ -73,7 +73,7 @@ The data is used to study trends, performance, and correlations.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project highlights that movie success depends on multiple factors, not just audience ratings.
 Some movies earned massive revenue despite moderate or low ratings, proving the **business-driven nature of the film industry**.
@@ -81,7 +81,7 @@ Year-wise trends show that revenue can increase even when average ratings declin
 
 ---
 
-## 📌 Recommendations
+## Recommendations
 
 * Focus on **high-performing genres** like Action, Adventure, and Sci-Fi
 * Ensure **high production quality** and strong cinematic experience
@@ -92,7 +92,7 @@ Year-wise trends show that revenue can increase even when average ratings declin
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * Power BI
 * Data Visualization
@@ -100,17 +100,16 @@ Year-wise trends show that revenue can increase even when average ratings declin
 
 ---
 
-## 👤 About Me
+## About Me
 
 **Name:** Kuchani Vamshi
 **Education:** B.Tech in Computer Science and Engineering
 **Field of Interest:** Data Analytics
-
-🔗 **LinkedIn:** [Kuchani Vamshi](https://www.linkedin.com/in/kuchani-vamshi-14b356296/)
+**LinkedIn:** [Kuchani Vamshi](https://www.linkedin.com/in/kuchani-vamshi-14b356296/)
 
 ---
 
-## 📎 Project Files
+## Project Files
 
 * Power BI Dashboard
 * Movie Sales Presentation
