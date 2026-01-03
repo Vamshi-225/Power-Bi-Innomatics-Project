@@ -103,8 +103,11 @@ Year-wise trends show that revenue can increase even when average ratings declin
 ## About Me
 
 **Name:** Kuchani Vamshi
+
 **Education:** B.Tech in Computer Science and Engineering
+
 **Field of Interest:** Data Analytics
+
 **LinkedIn:** [Kuchani Vamshi](https://www.linkedin.com/in/kuchani-vamshi-14b356296/)
 
 ---
